@@ -1,0 +1,5 @@
+{
+    "serverPort": 5000,
+    "dbUrl": "mongodb+srv://Alex:Sasila@cluster0.883lvih.mongodb.net/?retryWrites=true&w=majority",
+    "secretKey": "secret"
+}
